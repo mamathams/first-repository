@@ -1,0 +1,3 @@
+[submodule "first-repository"]
+	path = first-repository
+	url = https://github.com/mamathams/first-repository.git
